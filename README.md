@@ -10,6 +10,8 @@ Linux와 Kubernetes Evidence를 기반으로
 [Featured Project](https://github.com/nembutal-sw/kubernetes-cluster-infra-rca-platform)
 ·
 [Repositories](https://github.com/nembutal-sw?tab=repositories)
+·
+[Blog](https://sw-data.com)
 
 </div>
 
